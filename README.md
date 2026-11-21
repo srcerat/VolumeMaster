@@ -7,9 +7,9 @@
 <a name="russian"></a>
 ## Русский
 
-**Volume Master** — ультралегковесное нативное приложение для Windows 11 и 10, написанное на Rust. Оно объединяет функции скрытия системного индикатора громкости (OSD) и гибкой блокировки уровня звука.
+**Volume Master** ультралегковесное нативное приложение для Windows 11 и 10, написанное на Rust. Оно объединяет функции скрытия системного индикатора громкости (OSD) и гибкой блокировки уровня звука.
 
-### 📸 Скриншоты
+### Скриншоты
 
 | Темная тема (Dark) | Светлая тема (Light) |
 | :---: | :---: |
@@ -17,7 +17,7 @@
 
 ---
 
-### ✨ Возможности
+### Возможности
 
 1. **Скрытие всплывающего индикатора громкости (Windows 11 / 10 OSD):**
    - Полное подавление системного баннера громкости.
@@ -46,7 +46,7 @@
 
 ---
 
-### 📦 Сборка и установка
+### Сборка и установка
 
 Требуется установленный Rust (toolchain `stable-x86_64-pc-windows-gnu`):
 
@@ -67,7 +67,7 @@ cargo build --release
 
 **Volume Master** is an ultra-lightweight native Windows 11 & 10 utility written in Rust. It combines Windows Volume OSD suppression with volume locking and limit controls.
 
-### ✨ Features
+### Features
 
 1. **Volume OSD Suppressor:**
    - Completely hides the native Windows 11 & 10 volume flyout.
@@ -92,7 +92,7 @@ cargo build --release
 
 ---
 
-### 🛠️ Building from Source
+### Building from Source
 
 Ensure the Rust toolchain (`stable-x86_64-pc-windows-gnu`) is installed:
 
